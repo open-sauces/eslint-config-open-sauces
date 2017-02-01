@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-open-sauces",
+  "version": "0.0.1",
+  "description": "Open Sauces eslint setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-sauces/eslint-config-open-sauces.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "jptredoux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-sauces/eslint-config-open-sauces/issues"
+  },
+  "homepage": "https://github.com/open-sauces/eslint-config-open-sauces#readme",
+  "dependencies": {
+    "eslint": "^3.13.0",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-import-resolver-webpack": "^0.8.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
