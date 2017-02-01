@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-open-sauces",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Open Sauces eslint setup",
   "main": "index.js",
   "scripts": {
