@@ -9,3 +9,12 @@ Install peer dependencies:
 Install config:
 
 `npm install -D eslint-config-open-sauces`
+
+
+### .eslintrc
+
+```
+{
+  "extends": "open-sauces"
+}
+```

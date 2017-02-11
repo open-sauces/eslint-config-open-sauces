@@ -11,6 +11,8 @@ module.exports = {
       ignoreStrings: true,
       ignoreTemplateLiterals: true,
     }],
+    'import/extensions': ['error', { js: 'never' }],
+    'import/no-named-default': 'off',
   },
   settings: {
     'import/resolver': 'webpack',
